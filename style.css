@@ -1,0 +1,36 @@
+
+/* Stuff */
+body {
+    color: black; background-color: aquamarine;
+}
+header {
+background-color: aqua;
+}
+.projects {
+background-color: lightgreen;
+}
+
+.experience{
+    background-color: lightgreen; 
+}
+footer{
+    background-color: aqua;
+}
+a {
+    color: sandybrown;
+}
+a:hover {
+    text-decoration: none; color: gray;
+}
+.btn{
+    background-color: rgb(228, 245, 243); padding: 7px; border-radius: 3px; text-decoration: none;
+}
+ul a{color: black;
+
+}
+img {
+    max-width: 500px;
+}
+
+/* more specific stuff */
+
